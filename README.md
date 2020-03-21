@@ -1,6 +1,7 @@
 # Python-text-classification
 
-This is a twofold project that attempts firstly to classify the type of a subreddit and then the type of the discourse occuring within a Reddit post.
+This is a twofold project that attempts firstly to classify the type of a subreddit and then the type of the discourse occuring within a Reddit post.  This project was part of my MSc in Data Science in University of Glasgow.
+
 
 For the subreddit prediction the following steps where followed;
 
@@ -18,5 +19,3 @@ For the discourse prediction the following has been done;
 
 - Test the feature combination on the above model.
 
-
-This project was part of my MSc in Data Science in University of Glasgow
