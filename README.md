@@ -3,7 +3,7 @@
 This is a twofold project that attempts firstly to classify the type of a subreddit and then the type of the discourse occuring within a Reddit post.  This project was part of my MSc in Data Science in University of Glasgow.
 
 
-For the subreddit prediction the following steps where followed;
+For the __subreddit prediction__ the following steps where followed;
 
 - Develop BernouliNB, Logistic regression and SVC using both one hot encoding and tfidf vectorizer
 
@@ -11,7 +11,8 @@ For the subreddit prediction the following steps where followed;
 
 - Engineer two new features to add in the improved model.
 
-For the discourse prediction the following has been done;
+
+For the __discourse prediction__ the following has been done;
 
 - Test on the existing features with the above model.
 
