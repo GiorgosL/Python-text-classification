@@ -19,3 +19,4 @@ For the discourse prediction the following has been done;
 
 - Test the feature combination on the above model.
 
+- Explore the model's outcome using Eli5 to better understand the feature weights.
